@@ -1,5 +1,5 @@
 # App de Tareas (Fullstack)
-Aplicación fullstack simple para gestionar tareas, desarrollada con FastAPI (backend) y React (frontend).
+Aplicacion fullstack simple para gestionar tareas, desarrollada con FastAPI (backend) y React (frontend).
 
 # Funcionalidades
 - Crear tareas
@@ -8,8 +8,16 @@ Aplicación fullstack simple para gestionar tareas, desarrollada con FastAPI (ba
 - Tareas pendientes y completadas
 - Persistencia de datos en archivo JSON
 
-# Tecnologías
+# Tecnologias
 - Python + FastAPI
 - React (Vite)
 - JavaScript
 - JSON
+
+# Como correrlo
+# Backend
+py -m uvicorn app:app --reload
+# Frontend
+cd tareas-front  
+npm install  
+npm run dev
