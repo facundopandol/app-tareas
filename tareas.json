@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "titulo": "ir al gym",
+        "completada": true
+    },
+    {
+        "id": 2,
+        "titulo": "trabajar",
+        "completada": true
+    },
+    {
+        "id": 3,
+        "titulo": "estudiar",
+        "completada": true
+    },
+    {
+        "id": 4,
+        "titulo": "fumar porrito",
+        "completada": true
+    }
+]
