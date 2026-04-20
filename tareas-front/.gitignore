@@ -7,8 +7,8 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-node_modules/
-__pycache__/
+node_modules
+__pycache__
 tareas.json
 dist
 dist-ssr
